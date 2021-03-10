@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 This is a file in feature branch
 This is being written to check git conflict
 Lets check what happens
+=======
+
+
+#This is to check conflict
+
+This is a file in feature branch
+
+#This is to check conflict
+>>>>>>> 45ed0e29af7d447faea3bc84aa31a94e8c8e156c
