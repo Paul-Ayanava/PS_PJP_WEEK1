@@ -9,5 +9,9 @@ Lets check what happens
 
 This is a file in feature branch
 
+<<<<<<< HEAD
 #This is to check conflict
 >>>>>>> 45ed0e29af7d447faea3bc84aa31a94e8c8e156c
+=======
+#This is to check conflict hhgfhfghfg
+>>>>>>> 25c0c185189782bd2b1c18a698101d6141d342dc
