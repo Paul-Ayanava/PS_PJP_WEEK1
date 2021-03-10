@@ -1,1 +1,3 @@
 This is a file in feature branch
+This is being written to check git conflict
+Lets check what happens
