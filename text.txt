@@ -4,4 +4,6 @@
 
 This is a file in feature branch
 
-#This is to check conflict
+#This is to check conflict hhgfhfghfgeki
+
+# This is new thing
